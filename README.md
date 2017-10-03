@@ -1,2 +1,2 @@
 # Atrex-Audio
-Atrex Audio Windows Store App
+Atrex Audio Privacy Policy Windows Store App.
